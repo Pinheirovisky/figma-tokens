@@ -1,13 +1,17 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Jun 2023 14:20:38 GMT
+ * Generated on Fri, 09 Jun 2023 21:53:54 GMT
  */
 
 :root {
+  --sizes-2: 8;
+  --sizes-4: 16;
+  --sizes-8: 32;
   --color-white: #ffffff;
   --color-zinc-400: #a1a1aa;
   --color-zinc-600: #52525b;
   --color-zinc-800: #27272a;
   --color-zinc-900: #18181b;
   --color-violet-500: #8b5cf6;
+  --color-purple-400: #b99aff;
 }
